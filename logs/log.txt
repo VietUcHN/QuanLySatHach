@@ -1,0 +1,24 @@
+[2026-06-14 15:05:56] | LEVEL=INFO    | USER=admin           | MODULE=IE         | ACTION=XoaDL                | DETAIL=Xoa 1402 ban ghi
+[2026-06-14 15:06:02] | LEVEL=INFO    | USER=admin           | MODULE=Display    | ACTION=ThongKeKetQua        | DETAIL=KySH=ALL; Hang=ALL; TongHS=0; Import_DaThi=0; Nhap_DaThi=0
+[2026-06-14 15:06:09] | LEVEL=INFO    | USER=admin           | MODULE=Database   | ACTION=Disconnect           | DETAIL=Dong ket noi SQLite
+[2026-06-14 15:06:09] | LEVEL=INFO    | USER=admin           | MODULE=System     | ACTION=Shutdown             | DETAIL=User=admin dong phan mem.
+[2026-06-14 15:06:09] | LEVEL=INFO    | USER=admin           | MODULE=Database   | ACTION=Disconnect           | DETAIL=Dong ket noi SQLite
+
+================================================================================
+  SESSION BAT DAU: 2026-06-14 15:06:10 | USER: system
+================================================================================
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=System     | ACTION=Start                | DETAIL=Khoi dong phan mem v2.0.0
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=Database   | ACTION=Connect              | DETAIL=Ket noi SQLite: nguoi_lx.db
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Bat dau khoi tao database v2.1...
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang db_version
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang role, account, permission
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang dvhc
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang ky_sh
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang nguoi_lx, ho_so_sh, nhap_kqsh
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao bang config_noidung
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Tao indexes
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Chen du lieu mau
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=Version: v3
+[2026-06-14 15:06:11] | LEVEL=INFO    | USER=system          | MODULE=InitDB     | ACTION=InitDB               | DETAIL=HOAN TAT!
+[2026-06-14 15:06:55] | LEVEL=INFO    | USER=system          | MODULE=System     | ACTION=Exit                 | DETAIL=User dong dang nhap, thoat.
+[2026-06-14 15:06:55] | LEVEL=INFO    | USER=system          | MODULE=Database   | ACTION=Disconnect           | DETAIL=Dong ket noi SQLite
